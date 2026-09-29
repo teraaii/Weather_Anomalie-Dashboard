@@ -1,0 +1,8 @@
+PyQt5
+PyQtWebEngine
+numpy
+openmeteo-requests
+pandas
+requests
+requests-cache
+retry-requests

@@ -113,7 +113,7 @@ class WeatherDashboard(QWidget):
         self.clock_label.setText(current_time.strftime("%A, %B %d | %I:%M:%S %p"))
         
     def get_weather(self):
-        api_key = "c25190393fbf204deb1a06c4200d29c4"
+        api_key = "your_api_key_here"
         city = self.city_input.text().strip()
 
         if not city:

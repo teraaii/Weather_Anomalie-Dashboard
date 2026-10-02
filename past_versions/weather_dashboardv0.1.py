@@ -90,7 +90,7 @@ class WeatherDashboard(QWidget):
         self.get_weather_button.clicked.connect(self.get_weather)
         
     def get_weather(self):
-        api_key = "c25190393fbf204deb1a06c4200d29c4"
+        api_key = "your_key_here"
         city = self.city_input.text().strip()
 
         if not city:

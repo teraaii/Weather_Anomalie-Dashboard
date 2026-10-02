@@ -1,9 +1,14 @@
 # Project_1_Weather_Dashboard
 
-# versions 0.01
+# versions 0.01  
+<img width="583" height="527" alt="version 0 1" src="https://github.com/user-attachments/assets/26420704-ecf3-4d3d-88e6-1070a24ddf03" />
+<img width="494" height="487" alt="version 0 1 2" src="https://github.com/user-attachments/assets/cfd46cb5-ef94-4a79-8361-3829c81449dc" />
+<img width="464" height="438" alt="version 0 01" src="https://github.com/user-attachments/assets/b3bf834d-a8c7-4d70-b0d4-5682f6638607" />
+# version 1.3.5
+<img width="539" height="462" alt="version 1 3 5 home" src="https://github.com/user-attachments/assets/3dcb1392-0981-4c3a-842f-af593cfd6cf1" />
+<img width="541" height="540" alt="version 1 3 5 render" src="https://github.com/user-attachments/assets/c3d8bb53-51f1-452a-96df-38c275a0f3d3" />
+<img width="469" height="457" alt="version 1 3 5 error" src="https://github.com/user-attachments/assets/bea50613-a3ef-4099-a075-53d8f871e362" />
 
-<img width="494" height="487" alt="version 0 1 2" src="https://github.com/user-attachments/assets/4592d028-7d69-420c-a65b-13318dabfd34" />
-<img width="583" height="527" alt="version 0 1" src="https://github.com/user-attachments/assets/8c22fbef-fff5-4619-8e88-c9bf02f63e51" />
 
 # version 2.11
 

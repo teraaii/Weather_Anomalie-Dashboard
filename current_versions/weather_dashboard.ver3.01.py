@@ -150,7 +150,7 @@ def get_weather_map_data(latitude, longitude, current_conditions):
 class OutlinedLabel(QLabel):
     def __init__(self, text="", parent=None):
         super().__init__(text, parent)
-        self.text_color = QColor("#18342d")
+        self.text_color = QColor("#2c6c5c")
         self.outline_color = None
 
     def set_outline_colors(self, text_color, outline_color=None):
@@ -536,6 +536,7 @@ class WeatherDashboard(QWidget):
         self.anomaly_label.setObjectName("anomaly_label")
         
         self.apply_theme(is_daytime=True)
+        QTimer.singleShot(0, lambda: self.setStyleSheet(self.styleSheet()))
         
         self.get_weather_button.clicked.connect(self.get_weather)
         self.clock_timer = QTimer(self)
@@ -967,8 +968,8 @@ if (!forecast.children.length && !data.error) {
         button_text_color = "#e7d4fa" if is_landing_page else "white"
         input_text_color = "#000000" if is_landing_page else foreground
         if is_landing_page:
-            foreground = "#e7d4fa"
-            secondary = "#e7d4fa"
+            foreground = "#c2d4ff"
+            secondary = "#c59bff"
 
         highlight_day_text = (
             is_daytime and weather_id is not None and 800 <= weather_id <= 804

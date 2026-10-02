@@ -723,7 +723,7 @@ if (!forecast.children.length && !data.error) {
             self.return_to_search()
             return
 
-        api_key = "c25190393fbf204deb1a06c4200d29c4"
+        api_key = "your_key_here"
         city = self.city_input.text().strip()
 
         if not city:
